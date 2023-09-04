@@ -1,4 +1,4 @@
-package model;
+package Algoritm2;
 
 public class Car extends Toys {
     public Car(long id, String title, String manufacturer, double price, String gamesgroup, int quantity) {
